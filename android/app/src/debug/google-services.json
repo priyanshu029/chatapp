@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711310467156",
+    "firebase_url": "https://chatapp-fcdd6.firebaseio.com",
+    "project_id": "chatapp-fcdd6",
+    "storage_bucket": "chatapp-fcdd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711310467156:android:3d1ea61a0846271eac4dc1",
+        "android_client_info": {
+          "package_name": "com.priyanshu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711310467156-4fpjhh62g6p9m70lgq6pcjuvirf4i3r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cXuOzrM-ITA7-vysumawD7kqXGqgQbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711310467156-4fpjhh62g6p9m70lgq6pcjuvirf4i3r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
